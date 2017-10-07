@@ -1,0 +1,118 @@
+html, body
+{
+	height: 100%;
+}
+body{
+    margin: 0px;
+}
+.header{
+    position: relative;
+background-image: url(banner.jpg);
+    width: auto;
+    height: 480px;
+    margin: 0px;
+}
+.box{position: absolute;
+        background: #3498DB;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    font-family:cursive; 
+    width:20%;
+    height: 100px;
+    padding-top:50px;
+    text-align: center;
+    display: inline;
+    border-radius: 10px;
+    margin-left: 200px;
+}
+li{
+    display: inline;
+    padding-left: 30px;
+    color: white;
+}
+.menue
+{position: relative;
+    background-color: #3498DB;
+    height: 50px;
+    width: 50%;
+    margin-left: 560px;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+h1
+{
+    font-size: 40px;
+font-weight:bolder;
+}
+.words{
+     margin-left: 200px;
+    margin-top: 60px;
+}
+.images
+{
+     text-align: center;
+    margin-top: 40px;
+}
+.img {
+   
+    margin-left: 30px;display: inline;
+}
+.txt{
+    position: relative;
+}
+.a ,b,c{
+    display: inline;color: dimgray;
+}
+.a{position: absolute;
+    width: 24%;
+    margin-left: 200px;
+    font-size: 20px;
+    margin-top: 90px;
+}
+a{
+    text-decoration: none;color:dimgray;text-decoration: underline;
+}
+.b{
+    margin-left: 550px;
+     font-size: 20px;
+ position: absolute;
+    width: 24%;
+    margin-top: 90px;
+}
+.c{
+    margin-left: 900px;
+     font-size: 20px;
+ position: absolute;
+    width: 24%;
+    margin-top: 90px;
+}
+button{
+    background-color:  #3498DB;
+    width: 80px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.hi{
+    color: dimgray;
+}
+.welcome{
+    margin-top: 600px;
+    background-color: darkgrey;
+    padding: 50px;
+    padding-left: 300px;
+    color: dimgray;
+}
+h2{
+    font-size:40px;color: black;
+    font-weight: bolder;
+}
+footer{
+    height: 70px;
+    background-color:rgb(44,62,80);
+    padding: 60px;
+    color: white;
+    padding-left: 350px;
+}
